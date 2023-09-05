@@ -1,0 +1,325 @@
+{
+    "posts": [
+      {
+        "id": 1,
+        "title": "json-server",
+        "author": "typicode"
+      }
+    ],
+    "comments": [
+      {
+        "id": 1,
+        "body": "some comment",
+        "postId": 1
+      }
+    ],
+    "category": [
+      {
+        "descriptions": "",
+        "categorydate": "",
+        "id": 6
+      },
+      {
+        "descriptions": "ok",
+        "categorydate": "0121-12-12",
+        "id": 7
+      }
+    ],
+    "products": [
+      {
+        "id": 1,
+        "productname": "t-shirt",
+        "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWqXHYU5R7oBskQMMVx7mgi_LPcs_jWI_xBw&usqp=CAU",
+        "price": "3000/-",
+        "offerprice": "1800/-",
+        "qty": 1
+      },
+      {
+        "productname": "Men Suit",
+        "categorydate": "men",
+        "photo": "https://images.unsplash.com/photo-1618886614638-80e3c103d31a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bWVuJTIwc3VpdHxlbnwwfHwwfHx8MA%3D%3D&w=1000&q=80",
+        "price": "7500",
+        "offerprice": "5400",
+        "qty": "1",
+        "id": 2
+      },
+      {
+        "productname": "Men Suit",
+        "categorydate": "",
+        "photo": "https://i0.wp.com/www.society19.com/wp-content/uploads/2019/05/image-2019-05-10-3.png?fit=%2C&ssl=1",
+        "price": "8000",
+        "offerprice": "4500",
+        "qty": "1",
+        "id": 3
+      },
+      {
+        "productname": "Men suit",
+        "categorydate": "",
+        "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP58NeuofsJOj5krU9FgNJvZBrsXDuq4e7bg&usqp=CAU",
+        "price": "9000",
+        "offerprice": "7800",
+        "qty": "1",
+        "id": 4
+      }
+    ],
+    "Menproducts": [
+      {
+        "productname": "menproducts",
+        "photo": "https://i.pinimg.com/736x/15/e0/74/15e0745a4f10c072608963d55fb895cb.jpg",
+        "price": "4000",
+        "offerprice": "2600",
+        "qty": "1",
+        "id": 6
+      },
+      {
+        "productname": "Indian Traditional",
+        "photo": "https://sewguide.com/wp-content/uploads/2023/06/Achkan.jpg",
+        "price": "8000",
+        "offerprice": "6700",
+        "qty": "1",
+        "id": 7
+      },
+      {
+        "productname": " Indian Traditional ",
+        "photo": "https://cdn.shopify.com/s/files/1/1147/1390/products/VSHRMCO008PU_1.jpg?v=1663053669",
+        "price": "8500",
+        "offerprice": "6700",
+        "qty": "1",
+        "id": 9
+      },
+      {
+        "productname": " Indian Traditional ",
+        "photo": "https://i.pinimg.com/474x/91/b8/d4/91b8d4dbd6c1d14c7421f5ab69c54d8e.jpg",
+        "price": "8000",
+        "offerprice": "6799",
+        "qty": "1",
+        "id": 10
+      }
+    ],
+    "womenproducts": [
+      {
+        "productname": "Indian",
+        "photo": "https://finixpost.com/wp-content/uploads/2019/02/Look-taller-in-your-indian-wear.jpg",
+        "price": "1200",
+        "offerprice": "800",
+        "qty": "1",
+        "id": 1
+      },
+      {
+        "productname": "Female Professionals",
+        "photo": "https://static.wixstatic.com/media/738ebd_c20d921014614cd2a6fcf2067a86b6ed~mv2.png/v1/fill/w_960,h_504,al_c,lg_1,q_90/738ebd_c20d921014614cd2a6fcf2067a86b6ed~mv2.png",
+        "price": "1500",
+        "offerprice": "799",
+        "qty": "1",
+        "id": 2
+      },
+      {
+        "productname": "Indian",
+        "photo": "https://fashor.com/cdn/shop/products/14138_6_2000x.jpg?v=1647491171",
+        "price": "800",
+        "offerprice": "699",
+        "qty": "1",
+        "id": 3
+      },
+      {
+        "productname": "Saree",
+        "photo": "https://assets0.mirraw.com/images/9243205/image_large.jpeg?1626416524",
+        "price": "12000",
+        "offerprice": "8999",
+        "qty": "1",
+        "id": 4
+      }
+    ],
+    "kidsproducts": [
+      {
+        "productname": "Kids Wear",
+        "photo": "https://cottonsjaipur.com/cdn/shop/collections/0H8A5871f.jpg?v=1654941225",
+        "price": "1200",
+        "offerprice": "899",
+        "qty": "1",
+        "id": 1
+      },
+      {
+        "productname": "Kids Clothes",
+        "photo": "https://www.easymommylife.com/wp-content/uploads/childrens-clothes-girls-jeans-scaled.jpg",
+        "price": "1200",
+        "offerprice": "999",
+        "qty": "1",
+        "id": 2
+      },
+      {
+        "productname": "Kids Clothes",
+        "photo": "https://images.squarespace-cdn.com/content/v1/628dae5ba8f890150d136823/f8876522-bcd9-4cf2-bb03-fbb7c299d4dd/RCAW22D2-81.jpg",
+        "price": "1200",
+        "offerprice": "1100",
+        "qty": "1",
+        "id": 3
+      },
+      {
+        "productname": "Kids Clothes",
+        "photo": "https://thelinenworks.co.uk/cdn/shop/products/Linen-Girl_s-Top-07-I-The-Linen-Works_874389da-8f1c-4c29-81a1-c1221ce12543_grande.jpg?v=1682606297",
+        "price": "1500",
+        "offerprice": "1200",
+        "qty": "1",
+        "id": 4
+      }
+    ],
+    "cart": [
+      {
+        "productname": "Kids Clothes",
+        "photo": "https://www.easymommylife.com/wp-content/uploads/childrens-clothes-girls-jeans-scaled.jpg",
+        "price": "1200",
+        "offerprice": "999",
+        "qty": "1",
+        "id": 2
+      },
+      {
+        "productname": "menproducts",
+        "photo": "https://i.pinimg.com/736x/15/e0/74/15e0745a4f10c072608963d55fb895cb.jpg",
+        "price": "4000",
+        "offerprice": "2600",
+        "qty": "1",
+        "id": 6
+      }
+    ],
+    "contectus": [
+      {
+        "name": "meet",
+        "lname": "dave",
+        "email": "mkmkmkm",
+        "number": "112233",
+        "message": "hi",
+        "id": 4
+      },
+      {
+        "name": "om",
+        "lname": "oza",
+        "email": "om123gmail,com",
+        "number": "2358",
+        "message": "hii",
+        "id": 6
+      },
+      {
+        "name": "mansi",
+        "lname": "dave",
+        "email": "mmm",
+        "number": "888",
+        "message": "88",
+        "id": 7
+      },
+      {
+        "name": "meet",
+        "lname": "dave",
+        "email": "meetdave12@gmail.com",
+        "number": "129828271",
+        "message": "good",
+        "id": 8
+      },
+      {
+        "name": "samantha",
+        "lname": "chitaliya",
+        "email": "samanthachotaliya@gmail.com",
+        "number": "88888888888",
+        "message": "ok",
+        "id": 9
+      },
+      {
+        "name": "meet",
+        "lname": "dave",
+        "email": "samanthachotaliya@gmail.com",
+        "number": "1111111",
+        "message": "ok",
+        "id": 10
+      },
+      {
+        "name": "mit",
+        "lname": "dave",
+        "email": "witonol371@kkoup.com",
+        "number": "1255998",
+        "message": "ok",
+        "id": 11
+      },
+      {
+        "name": "priya",
+        "lname": "raj",
+        "email": "witonol371@kkoup.com",
+        "number": "11",
+        "message": "ok",
+        "id": 12
+      },
+      {
+        "name": "om",
+        "lname": "om",
+        "email": "witonol371@kkoup.com",
+        "number": "11",
+        "message": "kk",
+        "id": 13
+      },
+      {
+        "name": "om",
+        "lname": "om",
+        "email": "witonol371@kkoup.com",
+        "number": "99",
+        "message": "ok",
+        "id": 14
+      },
+      {
+        "name": "om",
+        "lname": "oza",
+        "email": "ozaomkar2011@gmail.com",
+        "number": "666888",
+        "message": "ok",
+        "id": 15
+      },
+      {
+        "name": "meet",
+        "lname": "dave",
+        "email": "meet@123.gmail.com",
+        "number": "111",
+        "message": "HI",
+        "id": 16
+      }
+    ],
+    "addslider": [
+      {
+        "slidercontent": "big sale",
+        "imageurl": "https://img.freepik.com/free-psd/horizontal-banner-template-big-sale-with-woman-shopping-bags_23-2148786755.jpg?w=2000",
+        "id": 6
+      },
+      {
+        "slidercontent": "new",
+        "imageurl": "https://i.pinimg.com/736x/b0/b7/8b/b0b78b6c2975d535b663bfb942b56df3.jpg",
+        "id": 7
+      }
+    ],
+    "socialmedia": [
+      {
+        "id": 1,
+        "socialmedi_title": "youtube",
+        "socialmedia_subs": "3541"
+      },
+      {
+        "socialmedi_title": "whatsapp",
+        "socialmedia_subs": "1250",
+        "id": 2
+      },
+      {
+        "socialmedi_title": "instagram",
+        "socialmedia_subs": "10000",
+        "id": 3
+      },
+      {
+        "socialmedi_title": "github",
+        "socialmedia_subs": "12000",
+        "id": 4
+      },
+      {
+        "socialmedi_title": "youtube",
+        "socialmedia_subs": "12350",
+        "id": 5
+      }
+    ],
+    "profile": {
+      "name": "typicode"
+    }
+  }
